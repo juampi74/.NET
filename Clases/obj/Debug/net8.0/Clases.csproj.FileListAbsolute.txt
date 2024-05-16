@@ -1,0 +1,11 @@
+C:\Net\JNM\Unidad 03\Clases\bin\Debug\net8.0\Clases.deps.json
+C:\Net\JNM\Unidad 03\Clases\bin\Debug\net8.0\Clases.dll
+C:\Net\JNM\Unidad 03\Clases\bin\Debug\net8.0\Clases.pdb
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\Clases.AssemblyInfoInputs.cache
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\Clases.AssemblyInfo.cs
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\Clases.csproj.CoreCompileInputs.cache
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\Clases.dll
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\refint\Clases.dll
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\Clases.pdb
+C:\Net\JNM\Unidad 03\Clases\obj\Debug\net8.0\ref\Clases.dll
