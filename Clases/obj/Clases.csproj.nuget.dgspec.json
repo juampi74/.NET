@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Net\\JNM\\Unidad 03\\Clases\\Clases.csproj": {}
+    "C:\\Net\\Unidad03\\AcademiaABM\\Clases\\Clases.csproj": {}
   },
   "projects": {
-    "C:\\Net\\JNM\\Unidad 03\\Clases\\Clases.csproj": {
+    "C:\\Net\\Unidad03\\AcademiaABM\\Clases\\Clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Net\\JNM\\Unidad 03\\Clases\\Clases.csproj",
+        "projectUniqueName": "C:\\Net\\Unidad03\\AcademiaABM\\Clases\\Clases.csproj",
         "projectName": "Clases",
-        "projectPath": "C:\\Net\\JNM\\Unidad 03\\Clases\\Clases.csproj",
+        "projectPath": "C:\\Net\\Unidad03\\AcademiaABM\\Clases\\Clases.csproj",
         "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Net\\JNM\\Unidad 03\\Clases\\obj\\",
+        "outputPath": "C:\\Net\\Unidad03\\AcademiaABM\\Clases\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
